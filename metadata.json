@@ -1,8 +1,0 @@
-{
-  "name": "Copy of Outreach Pilot Suite",
-  "description": "A high-performance sales outreach and lead management platform with AI-powered personalized email generation.",
-  "requestFramePermissions": [
-    "camera",
-    "microphone"
-  ]
-}
